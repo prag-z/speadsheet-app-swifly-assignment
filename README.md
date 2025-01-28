@@ -1,6 +1,8 @@
 # **Spreadsheet App - Swiftly Internship Assignment**
 
-This is a simple spreadsheet application built using **React, Node, Express and MongoDB** as part of internship recruitment process for the Swifly project at **Frantiger Consulting**. The application allows users to interact with a spreadsheet, save its state, and load it back. Below are the instructions to set up and run the project locally.
+This is a simple spreadsheet application built using **React, Node, Express and MongoDB** as part of internship recruitment process for the Swifly project at **FranTiger Consulting**. The application allows users to interact with a spreadsheet, save its state, and load it back. Below are the instructions to set up and run the project locally.
+
+![Spreadsheet App UI](./images/SpreadSheet.png)
 
 ## **Setup Instructions** 
 
