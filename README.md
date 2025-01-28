@@ -1,6 +1,6 @@
 # **Spreadsheet App - Swiftly Internship Assignment**
 
-This is a simple spreadsheet application built as part of internship recruitment process for the Swifly project at **Frantiger Consulting**. The application allows users to interact with a spreadsheet, save its state, and load it back. Below are the instructions to set up and run the project locally.
+This is a simple spreadsheet application built using **React, Node, Express and MongoDB** as part of internship recruitment process for the Swifly project at **Frantiger Consulting**. The application allows users to interact with a spreadsheet, save its state, and load it back. Below are the instructions to set up and run the project locally.
 
 ## **Setup Instructions** 
 
@@ -39,8 +39,9 @@ The backend will have started on `http://localhost:5000`
 ## **3. Frontend Setup**
 
 ### **2.1 Navigate to Frontend Directory**
+Create a new instance of the terminal. Then enter the command:
 ```sh
-cd ../frontend
+cd frontend
 ```
 
 ### **2.2 Install Dependencies**
