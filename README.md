@@ -2,7 +2,7 @@
 
 This is a simple spreadsheet application built using **React, Node, Express and MongoDB** as part of internship recruitment process for the Swifly project at **FranTiger Consulting**. The application allows users to interact with a spreadsheet, save its state, and load it back. Below are the instructions to set up and run the project locally.
 
-<img src="./images/screenshot.png" alt="Spreadsheet App Screenshot" width="500" />
+<img src="./images/SpreadSheet.png" alt="Spreadsheet App Screenshot" width="500" />
 
 ## **Setup Instructions** 
 
